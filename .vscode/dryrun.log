@@ -1,0 +1,4 @@
+make: Entering directory 'c:/Users/EndUser/Desktop/tony-github'
+g++ -o main.exe main.cpp
+make: Leaving directory 'c:/Users/EndUser/Desktop/tony-github'
+ 
