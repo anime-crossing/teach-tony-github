@@ -16,7 +16,7 @@ int main(){
     cout << "My name is " << myName << endl;
 
     // Next, type "git status" in the terminal, what do you see?
-    // You should see it say: 
+    // You should see it say: "modified: main.cpp"
     // Next, add, commit, and push your code to github
 
     // Have Chai pull your code, and make the changes below:
