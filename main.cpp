@@ -48,6 +48,15 @@ int main(){
     
     // Have Chai pull your code, and make the changes below:
 
+    // Explaining "git rm"
+        // You still have to tell github to delete a file
+        // that's what "git rm" is for telling github that you deleted something
+        // same logic as git add, you just what file you want to remove
+        
+        // Three total methods
+            // you can delete the file first, then run `git rm file-name` to update github
+            // you can run `git rm file-name` to remove it, and inform github in command
+            // you can delete the file, and do `git add .` at the end which tells everything
     //Chai, type your favorite anime here in this line below:
 
     string chaiAnime = "";
