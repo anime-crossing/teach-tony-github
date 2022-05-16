@@ -59,7 +59,7 @@ int main(){
             // you can delete the file, and do `git add .` at the end which tells everything
     //Chai, type your favorite anime here in this line below:
 
-    string chaiAnime = "";
+    string chaiAnime = "March Comes in Like a Lion";
 
     cout << "Chai's favorite anime is " << chaiAnime << endl;
 
